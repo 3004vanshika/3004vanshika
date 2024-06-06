@@ -1,8 +1,11 @@
-<img
+
 <h1 align="center">Hi 👋, I'm Vanshika Mishra</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3004vanshika&label=Profile%20views&color=0e75b6&style=flat" alt="3004vanshika" /> </p>
+👨‍💻 All of my projects are available at [https://github.com/3004vanshika](https://github.com/3004vanshika)
 
+💬 Ask me about **python**
 
-- 📫 How to reach me **vanshikamishra141@gmail.com**
+📫 How to reach me **vanshikamishra141@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
